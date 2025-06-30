@@ -2,6 +2,7 @@
 <h2>Prioority I</h2>
 <ol>
   <li>I do not understand how somebody can get an access to my database or data.</li>
+  <li>Tablet devices does not have Tomcat, do they? Do they have java executor? And how to run my application on a tablet devices?</li>
 </ol>
 <h2>Prioority II</h2>
 <ol>
