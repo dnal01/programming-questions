@@ -1,1 +1,24 @@
 # programming-questions
+## Prioority I
+<ol>
+  <li>I do not understand how somebody can get an access to my database or data.</li>
+</ol>
+## Priority II
+<ol>
+  <li>How to clean objects after creation or addition to a database if server is always running?</li>
+  <li>Any suggestions for multilingual application?</li>
+  <li>Can I encode messages in html in order to show my compliance to a standard and provide a certificate for myself or free of charge?</li>
+</ol>
+## Priority III
+<ol>
+  <li>What happens if you do not close recourses after the program finished?</li>
+  <li>Thread is ended but you can access it. Any comments?</li>
+  <li>Explain work of Comparator</li>
+  <li>Explain very detailed forEach method on a class with lambda usage. How can lambda work in default method (forEach)?</li>
+  <li>Example: iterator.nextIndex. Why all methods are empty? How does it work?</li>
+  <li>Explain removeIf in an every detail drilling down to all points.</li>
+  <li>What is queue detailed explanation?</li>
+  <li>Extends class which has a String name; methods. If I want to use a name and method from extended class how to do that? Is it real purpose</li>
+  <li>What happens when you assign a value to a formula let’s say lambda? Lambda block is created in memory? And when you return lambda block from a method the reference is going to be returned?</li>
+  <li>How is this method reference Employee::getName creates an object? Because the getName method returns a value?</li>
+</ol>
