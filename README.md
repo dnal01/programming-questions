@@ -7,7 +7,7 @@
 </ol>
 <h2>Prioority II</h2>
 <ol>
-  <li>How to clean objects after creation or addition to a database if server is always running?</li>
+  <li>How to clean objects after creation or addition to a database if server is always running? And any other objects which are generated on a go. As we create it seams as a new service and repository as we get a request.</li>
   <li>Any suggestions for multilingual application?</li>
   <li>Can I encode messages in html in order to show my compliance to a standard and provide a certificate for myself or free of charge?</li>
 </ol>
