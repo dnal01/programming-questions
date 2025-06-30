@@ -3,6 +3,7 @@
 <ol>
   <li>I do not understand how somebody can get an access to my database or data.</li>
   <li>Tablet devices does not have Tomcat, do they? Do they have java executor? And how to run my application on a tablet devices?</li>
+  <li>How deployment of program works? Do I need to know which server is used and configure my app for that server, not for Tomcat? Then I skip tomcat when they use another server? And I just send a war file at the end, right?</li>
 </ol>
 <h2>Prioority II</h2>
 <ol>
