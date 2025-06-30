@@ -1,15 +1,15 @@
-# programming-questions
-## Prioority I
+<h1>programming-questions</h1>
+<h2>Prioority I</h2>
 <ol>
   <li>I do not understand how somebody can get an access to my database or data.</li>
 </ol>
-## Priority II
+<h2>Prioority II</h2>
 <ol>
   <li>How to clean objects after creation or addition to a database if server is always running?</li>
   <li>Any suggestions for multilingual application?</li>
   <li>Can I encode messages in html in order to show my compliance to a standard and provide a certificate for myself or free of charge?</li>
 </ol>
-## Priority III
+<h2>Prioority III</h2>
 <ol>
   <li>What happens if you do not close recourses after the program finished?</li>
   <li>Thread is ended but you can access it. Any comments?</li>
